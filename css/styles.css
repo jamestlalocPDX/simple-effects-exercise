@@ -2,7 +2,7 @@
   display: none;
 }
 
-.walrus-showing {
+#walrus-showing {
   display: none;
 }
 
@@ -13,4 +13,7 @@
 
 .clickable:hover {
   text-decoration: underline;
+}
+#ostric-showing {
+  display: none;
 }
